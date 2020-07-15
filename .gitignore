@@ -35,3 +35,4 @@ Gemfile.lock
 .rvmrc
 
 .contentful_token
+/.idea
