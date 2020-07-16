@@ -17,7 +17,7 @@ module Contentful
 
         def run
           create_content_types unless skip_content_types
-          # create_assets
+          create_assets
           create_entries
 
           after_run
